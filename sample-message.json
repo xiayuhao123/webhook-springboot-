@@ -1,0 +1,22 @@
+{
+  "messageId": "msg-20241111-001",
+  "conversationId": "conv-7788",
+  "channel": "private_chat",
+  "text": "我无法登录系统，应该怎么办？",
+  "sender": {
+    "id": "user-001",
+    "displayName": "张三",
+    "email": "zhangsan@example.com"
+  },
+  "attachments": [
+    {
+      "type": "screenshot",
+      "url": "https://example.com/login-error.png",
+      "name": "login-error.png"
+    }
+  ],
+  "metadata": {
+    "tenant": "alpha",
+    "clientVersion": "5.2.1"
+  }
+}
